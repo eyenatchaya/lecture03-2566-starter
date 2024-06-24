@@ -1,0 +1,24 @@
+h1{
+    border:soild;
+    background-color: red;
+}
+h2{
+    border:soild;
+    background-color: yellow;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#p1{
+    background-color: blue;
+}
+.odd{
+    color: brown;
+}
+.even{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+.underline{
+    color: rgb(0, 0, 0);
+}
